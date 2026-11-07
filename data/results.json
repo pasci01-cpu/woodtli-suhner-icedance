@@ -1,0 +1,973 @@
+{
+  "athletes": {
+    "team": "Leonie WOODTLI / Timon David SUHNER",
+    "nation": "SUI",
+    "discipline": "Ice Dance",
+    "isu_id": "isufs00113773",
+    "isu_bio": "https://results.isu.org/bios/isufs00113773.htm",
+    "skaters": [
+      {
+        "name": "Leonie WOODTLI",
+        "birthdate": "2009-04-22",
+        "birthplace": "Heiden AR",
+        "hometown": "Marbach",
+        "height_cm": 168,
+        "club": "Eislaufverein Herisau",
+        "profession": "student (United School of Sports)",
+        "hobbies": "baking, dancing, drawing"
+      },
+      {
+        "name": "Timon David SUHNER",
+        "birthdate": "2006-09-15",
+        "birthplace": "Heiden AR",
+        "hometown": "Rebstein",
+        "height_cm": 180,
+        "club": "Eislaufverein Herisau",
+        "profession": "student",
+        "hobbies": "photography, Lego, catching food with his mouth"
+      }
+    ],
+    "coach": "Claudia Aebischer, Martin Skotnicky",
+    "choreographer": "Claudia Aebischer, Matteo Zanni, Mo König",
+    "training": "Herisau and Oberstdorf (GER), 14 h/week (high and low season)",
+    "music_2026_27": {
+      "rhythm_dance": "Concerto de España (Roni Benise)",
+      "free_dance": "End Credits / Maria / America, from West Side Story (Leonard Bernstein)"
+    },
+    "isu_personal_bests": {
+      "total": {
+        "score": 129.1,
+        "event": "ISU JGP Gdansk 2026"
+      },
+      "rhythm_dance": {
+        "score": 51.17,
+        "event": "ISU JGP Gdansk 2026"
+      },
+      "free_dance": {
+        "score": 77.93,
+        "event": "ISU JGP Gdansk 2026"
+      }
+    },
+    "instagram": "leonie.timon_icedance",
+    "instagram_personal": [
+      "leeoniee_woo",
+      "timooon__s"
+    ]
+  },
+  "updated": "2026-11-07",
+  "scope_notes": "Covers seasons 2024/25 to 2026/27 (up to 2026-11-07). The couple has skated together since at least 2021/22, so the whole period is covered. In 2024/25 they competed as Advanced Novices (level \"Advanced Novice\": two pattern dances plus a free dance; total = sum of all three segments). From 2025/26 on they compete as Juniors. Their 2026/27 ISU bio lists only JGP Ankara and JGP Gdansk so far; the Swiss 2026/27 events that already have results (Test Skate 2026, Ticino Cup, Montalin Cup, Eulach Cup) do not include them, and they were not entered at the Petronilla Cup 2026 (7-8 Nov 2026). The Swiss Cup in Widnau on 1-2 Mar 2025 was a synchronized skating competition with no ice dance category, so there is no result for them. Not counted as a separate event: fsresults.info also lists them under \"Senior Ice Dance / Juniors Rhythm-Dance\" at Aarauer Cup 2026, but the official results only show their junior category. The list of events was cross-checked against the ISU bio competition list, both fsresults.info couple pages, the deu-s.de couple page, and a scan of all 2024/25 and 2025/26 Swiss Ice Skating results folders.",
+  "competitions": [
+    {
+      "id": "coupe-de-lausanne-2024",
+      "season": "2024/25",
+      "name": "Coupe de Lausanne 2024",
+      "short": "Coupe de Lausanne 2024",
+      "city": "Lausanne",
+      "country": "SUI",
+      "start": "2024-09-14",
+      "end": "2024-09-15",
+      "type": "National",
+      "level": "Advanced Novice",
+      "place": 1,
+      "participants": 1,
+      "total": 115.24,
+      "segments": [
+        {
+          "name": "Pattern Dance 1",
+          "place": 1,
+          "score": 31.4,
+          "tes": 17.61,
+          "pcs": 13.79,
+          "deductions": 0.0,
+          "video": null
+        },
+        {
+          "name": "Pattern Dance 2",
+          "place": 1,
+          "score": 31.12,
+          "tes": 17.1,
+          "pcs": 14.02,
+          "deductions": 0.0,
+          "video": null
+        },
+        {
+          "name": "Free Dance",
+          "place": 1,
+          "score": 52.72,
+          "tes": 31.65,
+          "pcs": 21.07,
+          "deductions": 0.0,
+          "video": null
+        }
+      ],
+      "notes": "Advanced Novice ice dance (category \"Ice Dance Advanced Novice\"). Two pattern dances (with key points) on 14.09.2024, FD 15.09.2024. They were the only couple in the category. Club shown: HER (Eislaufverein Herisau).",
+      "sources": [
+        "https://patinageromand.ch/wp-content/resultats/coupe_de_lausanne_24/index.htm",
+        "https://patinageromand.ch/wp-content/resultats/coupe_de_lausanne_24/CAT039RS.htm",
+        "https://patinageromand.ch/wp-content/resultats/coupe_de_lausanne_24/SEG041.htm",
+        "https://patinageromand.ch/wp-content/resultats/coupe_de_lausanne_24/SEG042.htm",
+        "https://patinageromand.ch/wp-content/resultats/coupe_de_lausanne_24/SEG043.htm"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ticino-cup-2024",
+      "season": "2024/25",
+      "name": "Ticino Cup 2024 (Swiss Cup)",
+      "short": "Ticino Cup 2024",
+      "city": "Bellinzona",
+      "country": "SUI",
+      "start": "2024-10-04",
+      "end": "2024-10-06",
+      "type": "National",
+      "level": "Advanced Novice",
+      "place": 1,
+      "participants": 1,
+      "total": 117.97,
+      "segments": [
+        {
+          "name": "Pattern Dance 1",
+          "place": 1,
+          "score": 32.74,
+          "tes": 19.25,
+          "pcs": 13.49,
+          "deductions": 0.0,
+          "video": null
+        },
+        {
+          "name": "Pattern Dance 2",
+          "place": 1,
+          "score": 33.26,
+          "tes": 18.89,
+          "pcs": 14.37,
+          "deductions": 0.0,
+          "video": null
+        },
+        {
+          "name": "Free Dance",
+          "place": 1,
+          "score": 51.97,
+          "tes": 31.11,
+          "pcs": 20.86,
+          "deductions": 0.0,
+          "video": null
+        }
+      ],
+      "notes": "Swiss Cup event, category \"Advanced Novice Coppia Ice Dance\". Two pattern dances (with key points) on 05.10.2024, FD 06.10.2024. They were the only couple in the category. The official results page spells the venue \"Bellizona\".",
+      "sources": [
+        "https://resultate.swissiceskating.ch/2024_2025/swisscup/Ticino_Cup_2024/index.htm",
+        "https://resultate.swissiceskating.ch/2024_2025/swisscup/Ticino_Cup_2024/CAT021RS.htm",
+        "https://resultate.swissiceskating.ch/2024_2025/swisscup/Ticino_Cup_2024/SEG040.htm",
+        "https://resultate.swissiceskating.ch/2024_2025/swisscup/Ticino_Cup_2024/SEG041.htm",
+        "https://resultate.swissiceskating.ch/2024_2025/swisscup/Ticino_Cup_2024/SEG042.htm"
+      ],
+      "verified": true
+    },
+    {
+      "id": "icechallenge-2024",
+      "season": "2024/25",
+      "name": "Icechallenge 2024",
+      "short": "Ice Challenge 2024",
+      "city": "Graz",
+      "country": "AUT",
+      "start": "2024-11-05",
+      "end": "2024-11-10",
+      "type": "International",
+      "level": "Advanced Novice",
+      "place": 1,
+      "participants": 1,
+      "total": 108.57,
+      "segments": [
+        {
+          "name": "Pattern Dance 1",
+          "place": 1,
+          "score": 28.31,
+          "tes": 16.06,
+          "pcs": 12.25,
+          "deductions": 0.0,
+          "video": null
+        },
+        {
+          "name": "Pattern Dance 2",
+          "place": 1,
+          "score": 31.05,
+          "tes": 18.1,
+          "pcs": 12.95,
+          "deductions": 0.0,
+          "video": null
+        },
+        {
+          "name": "Free Dance",
+          "place": 1,
+          "score": 49.21,
+          "tes": 29.92,
+          "pcs": 19.29,
+          "deductions": 0.0,
+          "video": null
+        }
+      ],
+      "notes": "Advanced Novice ice dance. Two pattern dances (with key points) on 09.11.2024, FD 10.11.2024. They were the only couple in the category.",
+      "sources": [
+        "https://results.skateaustria.at/competition/saison2425/020/index.htm",
+        "https://results.skateaustria.at/competition/saison2425/020/CAT011RS.htm",
+        "https://results.skateaustria.at/competition/saison2425/020/SEG021.htm",
+        "https://results.skateaustria.at/competition/saison2425/020/SEG022.htm",
+        "https://results.skateaustria.at/competition/saison2425/020/SEG023.htm"
+      ],
+      "verified": true,
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/leonie.timon_icedance/p/DCU6e_wIaQR/",
+          "account": "leonie.timon_icedance",
+          "date": "2024-11-13",
+          "caption": "Ice Challenge Graz 🇦🇹🥇: “We had a great time & loved every moment in Graz.”"
+        }
+      ]
+    },
+    {
+      "id": "petronilla-cup-2024",
+      "season": "2024/25",
+      "name": "Ice Dance Petronilla Cup 24",
+      "short": "Petronilla Cup 2024",
+      "city": "Biasca",
+      "country": "SUI",
+      "start": "2024-11-16",
+      "end": "2024-11-17",
+      "type": "National",
+      "level": "Advanced Novice",
+      "place": null,
+      "participants": null,
+      "total": null,
+      "segments": [],
+      "notes": "Their own social media says they competed here (category \"Couple Ice Dance Advanced Novice\": two pattern dances on 16.11.2024, FD on 17.11.2024). The organiser has reused the results folder for later editions, the Wayback Machine only archived the 2024 index page and not the result pages, and fsresults.info has no data for this event. Placement and scores are therefore unknown.",
+      "sources": [
+        "https://web.archive.org/web/20241209045956/https://cp-biasca.ch/wp-content/uploads/PetronillaCup/RisultatiIceDance/index.htm",
+        "https://cp-biasca.ch/petronilla-cup/"
+      ],
+      "verified": false,
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/leonie.timon_icedance/p/DCjxb5iIs3A/",
+          "account": "leonie.timon_icedance",
+          "date": "2024-11-19",
+          "caption": "“Another weekend — another successful competition!” Two great days in Biasca."
+        }
+      ]
+    },
+    {
+      "id": "swiss-championships-2025-geneva",
+      "season": "2024/25",
+      "name": "Championnats Suisses Seniors et Juniors 2025, Genève",
+      "short": "Swiss Championships 2025",
+      "city": "Geneva",
+      "country": "SUI",
+      "start": "2024-12-13",
+      "end": "2024-12-15",
+      "type": "National",
+      "level": "Advanced Novice",
+      "place": 1,
+      "participants": 1,
+      "total": 118.11,
+      "segments": [
+        {
+          "name": "Pattern Dance 1",
+          "place": 1,
+          "score": 31.75,
+          "tes": 18.26,
+          "pcs": 13.49,
+          "deductions": 0.0,
+          "video": null
+        },
+        {
+          "name": "Pattern Dance 2",
+          "place": 1,
+          "score": 31.89,
+          "tes": 18.4,
+          "pcs": 13.49,
+          "deductions": 0.0,
+          "video": null
+        },
+        {
+          "name": "Free Dance",
+          "place": 1,
+          "score": 54.47,
+          "tes": 32.63,
+          "pcs": 21.84,
+          "deductions": 0.0,
+          "video": null
+        }
+      ],
+      "notes": "Swiss Advanced Novice ice dance champions (category \"SIS Advanced Novice Ice Dance\"). Held in December 2024, so it counts in season 2024/25. PD1 and PD2 14.12.2024, FD 15.12.2024. They were the only couple in the category. Club shown: HER (Eislaufverein Herisau).",
+      "sources": [
+        "https://resultate.swissiceskating.ch/2024_2025/sm/SM_Seniors_Juniors/index.htm",
+        "https://resultate.swissiceskating.ch/2024_2025/sm/SM_Seniors_Juniors/CAT008RS.htm",
+        "https://resultate.swissiceskating.ch/2024_2025/sm/SM_Seniors_Juniors/SEG020.htm",
+        "https://resultate.swissiceskating.ch/2024_2025/sm/SM_Seniors_Juniors/SEG021.htm",
+        "https://resultate.swissiceskating.ch/2024_2025/sm/SM_Seniors_Juniors/SEG022.htm"
+      ],
+      "verified": true,
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/leonie.timon_icedance/p/DEDYjiaohu3/",
+          "account": "leonie.timon_icedance",
+          "date": "2024-12-26",
+          "caption": "Swiss Nationals 2025: “Another title in the books!” 🥇"
+        },
+        {
+          "url": "https://www.instagram.com/leonie.timon_icedance/p/DDnOqUfxPtq/",
+          "account": "leonie.timon_icedance",
+          "date": "2024-12-15",
+          "caption": "🥇 Swiss Champions Advanced Novice 2025!"
+        }
+      ]
+    },
+    {
+      "id": "bavarian-open-2025",
+      "season": "2024/25",
+      "name": "Bavarian Open 2025",
+      "short": "Bavarian Open 2025",
+      "city": "Oberstdorf",
+      "country": "GER",
+      "start": "2025-01-20",
+      "end": "2025-01-26",
+      "type": "International",
+      "level": "Advanced Novice",
+      "place": 1,
+      "participants": 9,
+      "total": 117.37,
+      "segments": [
+        {
+          "name": "Pattern Dance 1",
+          "place": 2,
+          "score": 31.35,
+          "tes": 17.51,
+          "pcs": 13.84,
+          "deductions": 0.0,
+          "video": null
+        },
+        {
+          "name": "Pattern Dance 2",
+          "place": 2,
+          "score": 32.94,
+          "tes": 17.94,
+          "pcs": 15.0,
+          "deductions": 0.0,
+          "video": null
+        },
+        {
+          "name": "Free Dance",
+          "place": 1,
+          "score": 53.08,
+          "tes": 30.2,
+          "pcs": 22.88,
+          "deductions": 0.0,
+          "video": null
+        }
+      ],
+      "notes": "Advanced Novice ice dance. 2nd in both pattern dances (24.01.2025), won the FD (25.01.2025) and the event. 9 couples.",
+      "sources": [
+        "http://www.deu-event.de/results/BAY/BO2025/index.htm",
+        "http://www.deu-event.de/results/BAY/BO2025/CAT012RS.htm",
+        "http://www.deu-event.de/results/BAY/BO2025/SEG023.htm",
+        "http://www.deu-event.de/results/BAY/BO2025/SEG024.htm",
+        "http://www.deu-event.de/results/BAY/BO2025/SEG025.htm"
+      ],
+      "verified": true,
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/leonie.timon_icedance/p/DFTYSv2InDB/",
+          "account": "leonie.timon_icedance",
+          "date": "2025-01-26",
+          "caption": "Bavarian Open 2025 🥇: “What a great start in to the new year!”"
+        }
+      ]
+    },
+    {
+      "id": "egna-dance-trophy-2025",
+      "season": "2024/25",
+      "name": "Egna Ice Dance Trophy 2025",
+      "short": "Egna Dance Trophy 2025",
+      "city": "Egna",
+      "country": "ITA",
+      "start": "2025-02-06",
+      "end": "2025-02-09",
+      "type": "International",
+      "level": "Advanced Novice",
+      "place": 2,
+      "participants": 9,
+      "total": 111.12,
+      "segments": [
+        {
+          "name": "Pattern Dance 1",
+          "place": 5,
+          "score": 30.4,
+          "tes": 17.76,
+          "pcs": 12.64,
+          "deductions": 0.0,
+          "video": null
+        },
+        {
+          "name": "Pattern Dance 2",
+          "place": 4,
+          "score": 31.27,
+          "tes": 18.4,
+          "pcs": 12.87,
+          "deductions": 0.0,
+          "video": null
+        },
+        {
+          "name": "Free Dance",
+          "place": 2,
+          "score": 49.45,
+          "tes": 30.39,
+          "pcs": 19.06,
+          "deductions": 0.0,
+          "video": null
+        }
+      ],
+      "notes": "Advanced Novice ice dance. Both pattern dances 07.02.2025, FD 08.02.2025. 9 couples classified; 1 more withdrew. Silver, after 5th and 4th in the pattern dances and 2nd in the FD.",
+      "sources": [
+        "https://www.fisg.it/upload/result/6598/online/index.htm",
+        "https://www.fisg.it/upload/result/6598/online/CAT003RS.htm",
+        "https://www.fisg.it/upload/result/6598/online/SEG008.htm",
+        "https://www.fisg.it/upload/result/6598/online/SEG009.htm",
+        "https://www.fisg.it/upload/result/6598/online/SEG010.htm"
+      ],
+      "verified": true,
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/leonie.timon_icedance/p/DF3NoQDIALz/",
+          "account": "leonie.timon_icedance",
+          "date": "2025-02-09",
+          "caption": "Egna Dance Trophy 2025 🥈: from 6th after day one to silver with a strong free dance, their last Advanced Novice event."
+        }
+      ]
+    },
+    {
+      "id": "test-skate-2025",
+      "season": "2025/26",
+      "name": "TEST SKATE 2025",
+      "short": "Test Skate 2025",
+      "city": "Dübendorf",
+      "country": "SUI",
+      "start": "2025-08-09",
+      "end": "2025-08-10",
+      "type": "National",
+      "level": "Junior",
+      "place": 2,
+      "participants": 3,
+      "total": 126.2,
+      "segments": [
+        {
+          "name": "Rhythm Dance",
+          "place": 2,
+          "score": 51.45,
+          "tes": 27.62,
+          "pcs": 23.83,
+          "deductions": 0.0,
+          "video": null
+        },
+        {
+          "name": "Free Dance",
+          "place": 3,
+          "score": 74.75,
+          "tes": 38.09,
+          "pcs": 36.66,
+          "deductions": 0.0,
+          "video": null
+        }
+      ],
+      "notes": "Regional test competition, their first junior event. RD 09.08.2025, FD 10.08.2025. 3 couples.",
+      "sources": [
+        "https://resultate.swissiceskating.ch/2025_2026/regional/testskate_2025/index.htm",
+        "https://resultate.swissiceskating.ch/2025_2026/regional/testskate_2025/CAT007RS.htm",
+        "https://resultate.swissiceskating.ch/2025_2026/regional/testskate_2025/SEG009.htm",
+        "https://resultate.swissiceskating.ch/2025_2026/regional/testskate_2025/SEG010.htm"
+      ],
+      "verified": true
+    },
+    {
+      "id": "jgp-varese-2025",
+      "season": "2025/26",
+      "name": "ISU JGP Varese 2025",
+      "short": "JGP Varese 2025",
+      "city": "Varese",
+      "country": "ITA",
+      "start": "2025-09-03",
+      "end": "2025-09-06",
+      "type": "JGP",
+      "level": "Junior",
+      "place": 13,
+      "participants": 20,
+      "total": 115.1,
+      "segments": [
+        {
+          "name": "Rhythm Dance",
+          "place": 12,
+          "score": 45.5,
+          "tes": 25.59,
+          "pcs": 19.91,
+          "deductions": 0.0,
+          "video": "https://www.youtube.com/watch?v=Xrkr3KOK3xI"
+        },
+        {
+          "name": "Free Dance",
+          "place": 13,
+          "score": 69.6,
+          "tes": 36.82,
+          "pcs": 32.78,
+          "deductions": 0.0,
+          "video": "https://www.youtube.com/watch?v=HrJWnJ20Gws"
+        }
+      ],
+      "notes": "Their Junior Grand Prix debut. RD 04.09.2025, FD 05.09.2025. 20 couples.",
+      "sources": [
+        "https://results.isu.org/events/jgpita2025_JuniorIceDance.htm",
+        "https://results.isu.org/results/season2526/jgpita2025/index.htm",
+        "https://results.isu.org/results/season2526/jgpita2025/CAT003RS.htm",
+        "https://results.isu.org/results/season2526/jgpita2025/SEG005.htm",
+        "https://results.isu.org/results/season2526/jgpita2025/SEG006.htm"
+      ],
+      "verified": true,
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/leonie.timon_icedance/p/DOacN4PjZiS/",
+          "account": "leonie.timon_icedance",
+          "date": "2025-09-10",
+          "caption": "JGP Varese 🇮🇹: “Our first Junior Grand Prix, such a special experience.”"
+        }
+      ]
+    },
+    {
+      "id": "jgp-baku-2025",
+      "season": "2025/26",
+      "name": "ISU JGP Baku 2025",
+      "short": "JGP Baku 2025",
+      "city": "Baku",
+      "country": "AZE",
+      "start": "2025-09-23",
+      "end": "2025-09-26",
+      "type": "JGP",
+      "level": "Junior",
+      "place": 9,
+      "participants": 15,
+      "total": 116.09,
+      "segments": [
+        {
+          "name": "Rhythm Dance",
+          "place": 12,
+          "score": 44.26,
+          "tes": 24.64,
+          "pcs": 19.62,
+          "deductions": 0.0,
+          "video": "https://www.youtube.com/watch?v=Z8f6UVZH5LY"
+        },
+        {
+          "name": "Free Dance",
+          "place": 9,
+          "score": 71.83,
+          "tes": 39.93,
+          "pcs": 31.9,
+          "deductions": 0.0,
+          "video": "https://www.youtube.com/watch?v=pME9aaC6hRA"
+        }
+      ],
+      "notes": "RD 25.09.2025, FD 26.09.2025. 15 couples. 12th in the RD, 9th in the FD and overall.",
+      "sources": [
+        "https://results.isu.org/events/jgpaze2025_JuniorIceDance.htm",
+        "https://results.isu.org/results/season2526/jgpaze2025/index.htm",
+        "https://results.isu.org/results/season2526/jgpaze2025/CAT003RS.htm",
+        "https://results.isu.org/results/season2526/jgpaze2025/SEG005.htm",
+        "https://results.isu.org/results/season2526/jgpaze2025/SEG006.htm"
+      ],
+      "verified": true,
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/leonie.timon_icedance/p/DPJ_FpJjU50/",
+          "account": "leonie.timon_icedance",
+          "date": "2025-09-28",
+          "caption": "JGP Baku 🇦🇿: “We were able to demonstrate the improvements we had made since the last competition.”"
+        }
+      ]
+    },
+    {
+      "id": "swiss-ice-skating-open-2025",
+      "season": "2025/26",
+      "name": "Swiss Ice Skating Open 2025",
+      "short": "Swiss Open 2025",
+      "city": "Lausanne",
+      "country": "SUI",
+      "start": "2025-10-23",
+      "end": "2025-10-26",
+      "type": "International",
+      "level": "Junior",
+      "place": 4,
+      "participants": 6,
+      "total": 113.88,
+      "segments": [
+        {
+          "name": "Rhythm Dance",
+          "place": 4,
+          "score": 42.62,
+          "tes": 24.43,
+          "pcs": 18.19,
+          "deductions": 0.0,
+          "video": null
+        },
+        {
+          "name": "Free Dance",
+          "place": 4,
+          "score": 71.26,
+          "tes": 41.08,
+          "pcs": 30.18,
+          "deductions": 0.0,
+          "video": null
+        }
+      ],
+      "notes": "Junior event. RD 23.10.2025, FD 24.10.2025. 6 couples.",
+      "sources": [
+        "https://resultate.swissiceskating.ch/2025_2026/sm/Swiss_Ice_Skating_Open_2025/index.htm",
+        "https://resultate.swissiceskating.ch/2025_2026/sm/Swiss_Ice_Skating_Open_2025/CAT008RS.htm",
+        "https://resultate.swissiceskating.ch/2025_2026/sm/Swiss_Ice_Skating_Open_2025/SEG015.htm",
+        "https://resultate.swissiceskating.ch/2025_2026/sm/Swiss_Ice_Skating_Open_2025/SEG016.htm"
+      ],
+      "verified": true,
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/leonie.timon_icedance/p/DQ9O7DljZR-/",
+          "account": "leonie.timon_icedance",
+          "date": "2025-11-12",
+          "caption": "Swiss Ice Skating Open: “Although the results didn’t fully meet our expectations, we gained a lot of valuable experience.”"
+        }
+      ]
+    },
+    {
+      "id": "petronilla-cup-2025",
+      "season": "2025/26",
+      "name": "Ice Dance Petronilla Cup 2025",
+      "short": "Petronilla Cup 2025",
+      "city": "Biasca",
+      "country": "SUI",
+      "start": "2025-11-15",
+      "end": "2025-11-16",
+      "type": "National",
+      "level": "Junior",
+      "place": null,
+      "participants": null,
+      "total": null,
+      "segments": [],
+      "notes": "Entered in Junior Ice Dance but withdrew (listed as WD on fsresults.info). The organiser has since reused its results folder for the 2026 edition and no archived copy of the 2025 pages was found, so the withdrawal could not be checked on the official page.",
+      "sources": [
+        "https://fsresults.info/events/ice-dance-petronilla-cup-2025/junior-ice-dance",
+        "https://cp-biasca.ch/petronilla-cup/"
+      ],
+      "verified": false
+    },
+    {
+      "id": "swiss-championships-2026-lugano",
+      "season": "2025/26",
+      "name": "Campionati Svizzeri 2026 (Swiss Championships), Lugano",
+      "short": "Swiss Championships 2026",
+      "city": "Lugano",
+      "country": "SUI",
+      "start": "2025-12-19",
+      "end": "2025-12-21",
+      "type": "National",
+      "level": "Junior",
+      "place": 2,
+      "participants": 2,
+      "total": 131.61,
+      "segments": [
+        {
+          "name": "Rhythm Dance",
+          "place": 1,
+          "score": 52.3,
+          "tes": 29.42,
+          "pcs": 22.88,
+          "deductions": 0.0,
+          "video": null
+        },
+        {
+          "name": "Free Dance",
+          "place": 2,
+          "score": 79.31,
+          "tes": 43.17,
+          "pcs": 36.14,
+          "deductions": 0.0,
+          "video": null
+        }
+      ],
+      "notes": "Swiss junior ice dance silver. Won the RD, 2nd in the FD and overall. Held in December 2025, so it counts in season 2025/26. RD 20.12.2025, FD 21.12.2025. Only 2 couples.",
+      "sources": [
+        "https://resultate.swissiceskating.ch/2025_2026/sm/SM_Seniors_Juniors/index.htm",
+        "https://resultate.swissiceskating.ch/2025_2026/sm/SM_Seniors_Juniors/CAT008RS.htm",
+        "https://resultate.swissiceskating.ch/2025_2026/sm/SM_Seniors_Juniors/SEG015.htm",
+        "https://resultate.swissiceskating.ch/2025_2026/sm/SM_Seniors_Juniors/SEG016.htm"
+      ],
+      "verified": true,
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/leonie.timon_icedance/p/DS6sc4HjJKT/",
+          "account": "leonie.timon_icedance",
+          "date": "2025-12-30",
+          "caption": "“Our first nationals in Junior was a total success.” They won the rhythm dance."
+        }
+      ]
+    },
+    {
+      "id": "aarauer-cup-2026",
+      "season": "2025/26",
+      "name": "Aarauer Cup 2026 (Swiss Cup)",
+      "short": "Aarauer Cup 2026",
+      "city": "Aarau",
+      "country": "SUI",
+      "start": "2026-01-15",
+      "end": "2026-01-18",
+      "type": "National",
+      "level": "Junior",
+      "place": 1,
+      "participants": 1,
+      "total": 136.87,
+      "segments": [
+        {
+          "name": "Rhythm Dance",
+          "place": 1,
+          "score": 52.53,
+          "tes": 29.36,
+          "pcs": 23.17,
+          "deductions": 0.0,
+          "video": null
+        },
+        {
+          "name": "Free Dance",
+          "place": 1,
+          "score": 84.34,
+          "tes": 48.68,
+          "pcs": 35.66,
+          "deductions": 0.0,
+          "video": null
+        }
+      ],
+      "notes": "Swiss Cup event, category \"SIS Eistanz Juniors\". RD 17.01.2026, FD 18.01.2026. They were the only couple in the category.",
+      "sources": [
+        "https://resultate.swissiceskating.ch/2025_2026/swisscup/Aarauer_Cup_2026/index.htm",
+        "https://resultate.swissiceskating.ch/2025_2026/swisscup/Aarauer_Cup_2026/CAT027RS.htm",
+        "https://resultate.swissiceskating.ch/2025_2026/swisscup/Aarauer_Cup_2026/SEG009.htm",
+        "https://resultate.swissiceskating.ch/2025_2026/swisscup/Aarauer_Cup_2026/SEG010.htm"
+      ],
+      "verified": true
+    },
+    {
+      "id": "bavarian-open-2026",
+      "season": "2025/26",
+      "name": "Bavarian Open 2026",
+      "short": "Bavarian Open 2026",
+      "city": "Oberstdorf",
+      "country": "GER",
+      "start": "2026-01-27",
+      "end": "2026-02-01",
+      "type": "International",
+      "level": "Junior",
+      "place": 5,
+      "participants": 10,
+      "total": 131.43,
+      "segments": [
+        {
+          "name": "Rhythm Dance",
+          "place": 6,
+          "score": 51.27,
+          "tes": 30.98,
+          "pcs": 20.29,
+          "deductions": 0.0,
+          "video": null
+        },
+        {
+          "name": "Free Dance",
+          "place": 5,
+          "score": 80.16,
+          "tes": 46.0,
+          "pcs": 34.16,
+          "deductions": 0.0,
+          "video": null
+        }
+      ],
+      "notes": "Junior event. RD 30.01.2026, FD 31.01.2026. 10 couples classified; 1 more withdrew after the RD.",
+      "sources": [
+        "http://www.deu-event.de/results/BAY/BO2026/index.htm",
+        "http://www.deu-event.de/results/BAY/BO2026/CAT008RS.htm",
+        "http://www.deu-event.de/results/BAY/BO2026/SEG015.htm",
+        "http://www.deu-event.de/results/BAY/BO2026/SEG016.htm"
+      ],
+      "verified": true,
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/leonie.timon_icedance/p/DUVSYBEjXwI/",
+          "account": "leonie.timon_icedance",
+          "date": "2026-02-04",
+          "caption": "Bavarian Open 2026: “Incredibly proud … of achieving 5th place against a very strong field.”"
+        }
+      ]
+    },
+    {
+      "id": "skate-berlin-2026",
+      "season": "2025/26",
+      "name": "Skate Berlin International 2026",
+      "short": "Skate Berlin 2026",
+      "city": "Berlin",
+      "country": "GER",
+      "start": "2026-02-17",
+      "end": "2026-02-21",
+      "type": "International",
+      "level": "Junior",
+      "place": 2,
+      "participants": 11,
+      "total": 138.85,
+      "segments": [
+        {
+          "name": "Rhythm Dance",
+          "place": 2,
+          "score": 54.18,
+          "tes": 29.46,
+          "pcs": 24.72,
+          "deductions": 0.0,
+          "video": null
+        },
+        {
+          "name": "Free Dance",
+          "place": 3,
+          "score": 84.67,
+          "tes": 46.17,
+          "pcs": 38.5,
+          "deductions": 0.0,
+          "video": null
+        }
+      ],
+      "notes": "Junior event. RD 19.02.2026, FD 20.02.2026. 11 couples classified; 1 more withdrew. Silver (2nd in the RD, 3rd in the FD). Their highest total, RD and FD scores so far (not ISU personal bests, because this event does not count for ISU bests).",
+      "sources": [
+        "https://eissport-berlin.de/wp-content/EK/Wettbewerbe/Ergebnisse/SBI26/index.htm",
+        "https://eissport-berlin.de/wp-content/EK/Wettbewerbe/Ergebnisse/SBI26/CAT007RS.htm",
+        "https://eissport-berlin.de/wp-content/EK/Wettbewerbe/Ergebnisse/SBI26/SEG013.htm",
+        "https://eissport-berlin.de/wp-content/EK/Wettbewerbe/Ergebnisse/SBI26/SEG014.htm"
+      ],
+      "verified": true,
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/leonie.timon_icedance/p/DVEWX1GjYXh/",
+          "account": "leonie.timon_icedance",
+          "date": "2026-02-22",
+          "caption": "Skate Berlin 2026 🥈: their first international medal in their debut junior season, with a new season’s best."
+        }
+      ]
+    },
+    {
+      "id": "jgp-ankara-2026",
+      "season": "2026/27",
+      "name": "ISU JGP Ankara 2026",
+      "short": "JGP Ankara 2026",
+      "city": "Ankara",
+      "country": "TUR",
+      "start": "2026-09-17",
+      "end": "2026-09-19",
+      "type": "JGP",
+      "level": "Junior",
+      "place": 11,
+      "participants": 20,
+      "total": 118.97,
+      "segments": [
+        {
+          "name": "Rhythm Dance",
+          "place": 17,
+          "score": 41.96,
+          "tes": 21.43,
+          "pcs": 21.53,
+          "deductions": 1.0,
+          "video": "https://www.youtube.com/watch?v=BaMgFZNoj14"
+        },
+        {
+          "name": "Free Dance",
+          "place": 9,
+          "score": 77.01,
+          "tes": 41.79,
+          "pcs": 35.22,
+          "deductions": 0.0,
+          "video": "https://www.youtube.com/watch?v=3tcHUNlEglw"
+        }
+      ],
+      "notes": "RD 18.09.2026, FD 19.09.2026. 20 couples. RD includes a 1.00 deduction. 17th in the RD, then 9th in the FD to finish 11th.",
+      "sources": [
+        "https://results.isu.org/events/jgptur2026_JuniorIceDance.htm",
+        "https://results.isu.org/results/season2627/jgptur2026/index.htm",
+        "https://results.isu.org/results/season2627/jgptur2026/CAT004RS.htm",
+        "https://results.isu.org/results/season2627/jgptur2026/SEG007.htm",
+        "https://results.isu.org/results/season2627/jgptur2026/SEG008.htm"
+      ],
+      "verified": true,
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/leonie.timon_icedance/p/DdtVOFCDYax/",
+          "account": "leonie.timon_icedance",
+          "date": "2026-09-25",
+          "caption": "JGP Ankara 🇹🇷: “Despite an unfortunate mistake in the Rhythm Dance … we were well prepared.”"
+        },
+        {
+          "url": "https://www.instagram.com/evherisau/p/DdmXJBgkYIM/",
+          "account": "evherisau",
+          "date": "2026-09-22",
+          "caption": "EV Herisau club post about JGP Ankara (German): a fall on the last RD element, then the free dance."
+        }
+      ]
+    },
+    {
+      "id": "jgp-gdansk-2026",
+      "season": "2026/27",
+      "name": "ISU JGP Gdansk 2026",
+      "short": "JGP Gdansk 2026",
+      "city": "Gdansk",
+      "country": "POL",
+      "start": "2026-10-08",
+      "end": "2026-10-10",
+      "type": "JGP",
+      "level": "Junior",
+      "place": 9,
+      "participants": 20,
+      "total": 129.1,
+      "segments": [
+        {
+          "name": "Rhythm Dance",
+          "place": 9,
+          "score": 51.17,
+          "tes": 28.85,
+          "pcs": 22.32,
+          "deductions": 0.0,
+          "video": "https://www.youtube.com/watch?v=0nw4l15CcbQ"
+        },
+        {
+          "name": "Free Dance",
+          "place": 10,
+          "score": 77.93,
+          "tes": 43.43,
+          "pcs": 36.5,
+          "deductions": 2.0,
+          "video": "https://www.youtube.com/watch?v=uSCtEHXxT44"
+        }
+      ],
+      "notes": "RD 09.10.2026, FD 10.10.2026. 20 couples. FD includes a 2.00 deduction. Total 129.10, RD 51.17 and FD 77.93 are their ISU personal bests, per their ISU bio. Their latest result before 2026-11-07.",
+      "sources": [
+        "https://results.isu.org/events/jgppol2026_JuniorIceDance.htm",
+        "https://results.isu.org/results/season2627/jgppol2026/index.htm",
+        "https://results.isu.org/results/season2627/jgppol2026/CAT004RS.htm",
+        "https://results.isu.org/results/season2627/jgppol2026/SEG007.htm",
+        "https://results.isu.org/results/season2627/jgppol2026/SEG008.htm"
+      ],
+      "verified": true,
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/leonie.timon_icedance/p/DeoVNGoDYPZ/",
+          "account": "leonie.timon_icedance",
+          "date": "2026-10-18",
+          "caption": "JGP Gdańsk 🇵🇱: “Very happy to have finished this competition in the top 10.”"
+        }
+      ]
+    }
+  ]
+}
